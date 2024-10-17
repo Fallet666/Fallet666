@@ -7,10 +7,10 @@
 </a>
 
 
-## 📋 My CV (click to card)
+<!--## 📋 My CV (click to card)
 <a href="https://docs.google.com/document/d/1-rDeBGAF-wqYencNbE8OpYNjDPplTu4q3XuiN3PgAsE/edit?usp=sharing">
-<img  width="616" alt="Link to the CV in Google Doc" src="https://github.com/user-attachments/assets/598f1ee8-5372-4bc0-bcb5-b09bbc7688f4">
-</a>
+ <img  width="616" alt="Link to the CV in Google Doc" src="https://github.com/user-attachments/assets/598f1ee8-5372-4bc0-bcb5-b09bbc7688f4">
+ </a> -->
 
 ### Hi there 👋
 
