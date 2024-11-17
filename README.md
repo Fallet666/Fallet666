@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on AuroraOS (C++ Junior Dev)
+- 🔭 I’m currently Software developer engineer (C++)
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on C++ projects
 - 💬 Ask me about C++
