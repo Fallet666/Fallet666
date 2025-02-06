@@ -8,9 +8,9 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently Software developer engineer (C++)
-- 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on C++ projects
-- 💬 Ask me about C++
+- 🔭 I’m currently Software developer engineer in tests (C/C++)
+- 🌱 I’m currently learning C/C++
+- 👯 I’m looking to collaborate on C/C++ projects
+- 💬 Ask me about C/C++
 - 📫 How to reach me:
   - tg: @born_in_void
