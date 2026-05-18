@@ -12,8 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://ghstats.dev/api/mini?username=Fallet666&metric=stars&color=f1c40f" alt="Stars">
-  <img src="https://ghstats.dev/api/mini?username=Fallet666&metric=commits&color=2ecc71" alt="Commits">
+  <img src="https://ghstats.dev/api/mini?username=Fallet666&metric=stars&color=e67e22" alt="Stars">
   <img src="https://ghstats.dev/api/mini?username=Fallet666&metric=followers&color=3498db" alt="Followers">
 </p>
 
