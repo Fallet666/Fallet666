@@ -12,13 +12,8 @@
 ---
 
 <p align="center">
-  <img src="https://ghstats.dev/api/mini?username=Fallet666&metric=stars&color=e67e22" alt="Stars">
-  <img src="https://ghstats.dev/api/mini?username=Fallet666&metric=followers&color=3498db" alt="Followers">
-</p>
-
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=Fallet666&theme=radical" alt="GitHub Stats">
-  <img src="https://ghstats.dev/api/card?username=Fallet666&theme=radical&size=compact&compact_count=6" alt="Top Languages">
+  <img src="https://github-readme-stats.shion.dev/api?username=Fallet666&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fallet666&layout=pie&theme=radical" alt="Top Languages">
 </p>
 
 <p align="center">
